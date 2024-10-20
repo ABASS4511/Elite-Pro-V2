@@ -8,9 +8,9 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'Dark-Luffy' //ur bot name
+global.botname = 'ELITE-PRO-V2' //ur bot name
 global.ownernumber = '2250500988391' //ur owner number
-global.ownername = 'Dark-Luffy' //ur owner name
+global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
